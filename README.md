@@ -15,25 +15,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaa.maurodesouzaa&left_color=blue&right_color=aqua"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me:</h3>
+<h3 align="left">👩‍💻 Sobre:</h3>
 
 ###
 
-<p align="left">Sou Teógenis Alves, desenvolvedor back-end com foco total em Java e no ecossistema Spring.  Sou estudante de ciência da computação,  e estou buscando minha oportunidade de entrar de vez no mercado de tecnologia.</p>
+<p align="left">Sou Teógenis Alves, desenvolvedor back-end com foco total em Java e no ecossistema Spring. Sou estudante de ciência da computação, e estou buscando minha oportunidade de entrar de vez no mercado de tecnologia, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir de forma ativa para o crescimento da equipe e da organização. Estou motivado, aberto a novos desafios e comprometido com a evolução constante como desenvolvedor..</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
@@ -63,23 +59,21 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Meus Status:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouzaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouzaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrTeoL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrTeoL&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MrTeoL&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/snake.svg" alt="Snake animation" />
 
 ###
